@@ -40,8 +40,8 @@ Respuesta: es (SI NO) complemento del if cuando no se cumplen las condiciones qu
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta: hay que ser conscientes que en ambos escenarios hay persona que son influidas por las decisiones, en internet nos llega toda la informacion y es imparcial según lo que se consume y por tanto en programación hay que verificar todo lo que se pueda cuando no estamos seguros para que nuestros stackholders sean notificados con la verdad del interes.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta:somos los responsables directos de verificar las noticias para que llegue la verdad se relaciona porque al hacer esta actividad hay que tener en cuenta a nuestra comunidad y para ellos tiene que llegar informacion real y al empezar con JS son formatos que ya pueden leer y tener lo que estamos haciendo.
