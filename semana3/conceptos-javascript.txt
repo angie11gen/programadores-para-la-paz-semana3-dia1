@@ -8,35 +8,35 @@ Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta: es un lenguaje de programacion que permite crear paginas web de una manera sencilla utilizando HTML y CSS para ejecutarse de una manera mas sencilla.
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta: permite que el codigo de JavaScript se vea en pantalla tanto en paginas web como en aplicaciones.
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta: nos permite ver el codigo de programacion con el que se esta trabajando.
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: una variable son datos mutables que en cualquier momento pueden cambiar.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta:es utilizada para definir una constante un valornumerico o palabras que siempre van a conservar status en el codigo.
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta: let representa que se va a utilizar o llamar una variable en el codigo.
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: es (SI) en los diferentes lenguajes de programacion es una forma de condicional que permite variar el contenido del codigo dando a entender que hay mas opciones.
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: es (SI NO) complemento del if cuando no se cumplen las condiciones que ya se tienen planificadas permitiendo otra opcion en la interfaz
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
