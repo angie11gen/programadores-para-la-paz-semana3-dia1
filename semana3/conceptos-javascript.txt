@@ -2,7 +2,7 @@ Conceptos básicos de JavaScript – Semana 3 Día 1
 
 Nombre del estudiante: Angie Lorena Guzmán Manquillo
 Fecha:29 de abril de 2026
-Nombre de la rama: ALM
+Nombre de la rama: angielorena_guzmanmanquillo
 
 Responde con tus propias palabras.
 
